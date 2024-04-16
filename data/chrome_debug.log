@@ -1,0 +1,7 @@
+[8316:19056:0416/073634.086:WARNING:chrome_main_delegate.cc(740)] This is Chrome version 123.0.6312.123 (not a warning)
+[8316:19056:0416/073634.146:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[8316:19056:0416/073634.146:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[8316:19056:0416/073634.771:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[8316:19056:0416/073634.940:INFO:CONSOLE(137)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yc/r/LIFx1v4mTWm.js?_nc_x=Ij3Wp8lg5Kz (137)
+[8316:19056:0416/073642.132:INFO:CONSOLE(137)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yc/r/LIFx1v4mTWm.js?_nc_x=Ij3Wp8lg5Kz (137)
+[8316:19056:0416/073701.521:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

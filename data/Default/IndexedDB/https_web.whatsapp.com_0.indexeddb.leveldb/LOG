@@ -1,0 +1,17 @@
+2024/04/16-07:36:34.953 18c4 Reusing MANIFEST C:\Users\Hermandell\PycharmProjects\whatsSelenium\data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/16-07:36:34.953 18c4 Recovering log #385
+2024/04/16-07:36:34.964 18c4 Reusing old log C:\Users\Hermandell\PycharmProjects\whatsSelenium\data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000385.log 
+2024/04/16-07:36:35.378 5ca4 Level-0 table #392: started
+2024/04/16-07:36:35.385 5ca4 Level-0 table #392: 392701 bytes OK
+2024/04/16-07:36:35.386 5ca4 Delete type=0 #385
+2024/04/16-07:36:35.387 5ca4 Manual compaction at level-0 from '\x00Z\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00[\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/16-07:36:36.542 18c4 Compacting 1@1 + 3@2 files
+2024/04/16-07:36:36.628 18c4 Generated table #393@1: 52541 keys, 2214613 bytes
+2024/04/16-07:36:36.709 18c4 Generated table #394@1: 58767 keys, 2212157 bytes
+2024/04/16-07:36:36.772 18c4 Generated table #395@1: 57839 keys, 1171217 bytes
+2024/04/16-07:36:36.772 18c4 Compacted 1@1 + 3@2 files => 5597987 bytes
+2024/04/16-07:36:36.773 18c4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/04/16-07:36:36.773 18c4 Delete type=2 #387
+2024/04/16-07:36:36.773 18c4 Delete type=2 #388
+2024/04/16-07:36:36.773 18c4 Delete type=2 #389
+2024/04/16-07:36:36.773 18c4 Delete type=2 #392
